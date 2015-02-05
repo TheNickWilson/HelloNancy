@@ -7,7 +7,7 @@ namespace NancyApplication2
     {
         public MainModule()
         {
-            Get["/"] = parameters => "Hello Martin!"; 
+            Get["/"] = parameters => "Hello Boys!";
         }
     }
 }
